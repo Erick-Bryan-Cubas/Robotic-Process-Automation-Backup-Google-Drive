@@ -32,6 +32,3 @@ pyautogui.mouseUp()
 time.sleep(5)
 
 pyautogui.alert("O código acabou de rodar. Pode usar o seu computador novamente")
-
-
-# Esperar 5 segundos
